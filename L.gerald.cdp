@@ -1,0 +1,4 @@
+{
+  "code": 99,
+  "text": "AuthUtils.getSelectedDcInfo dcList is empty"
+}
